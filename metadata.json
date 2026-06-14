@@ -1,0 +1,6 @@
+{
+  "name": "Web Sitesi Yapım Rehberi",
+  "description": "Adım adım web sitesi oluşturmayı öğreten, interaktif canlı kod deneme alanı, ayrıntılı SSS ve yapay zeka kodlama mentoru içeren Türkçe eğitim rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
